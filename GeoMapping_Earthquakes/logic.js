@@ -98,7 +98,7 @@ d3.json(queryUrl, function(data) {
           // Tectonic plates layer
     var platesStyle = {
         "color": "white",
-        "weight": 2,
+        "weight": 8,
         "opacity": 1,
         fillOpacity: 0,
       };
