@@ -159,7 +159,7 @@ function buildGauge(freqResponse) {
         color: '850000'
         }
         }],
-        title: '<b>Belly Button Washing Frequency</b> <br> Scrubs per Week',
+        title: '<b>Washing or Showering Frequency</b> <br>Showers or Washes per Week',
         titlefont: {family: '"Palatino Linotype", "Book Antiqua", Palatino, serif'},
         height: 520,
         width: 520,
